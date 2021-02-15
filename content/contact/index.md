@@ -10,7 +10,7 @@ headless: true
 weight: 10
 
 title: 
-subtitle:Dave
+subtitle: Dave
 
 content:
   # Automatically link email and phone or display as text?
