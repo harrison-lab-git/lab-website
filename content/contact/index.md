@@ -4,13 +4,13 @@
 widget: contact
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 10
 
 title: 
-subtitle:
+subtitle:Dave
 
 content:
   # Automatically link email and phone or display as text?
