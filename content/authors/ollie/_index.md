@@ -4,7 +4,7 @@ title: Ollie Harrison
 
 # Username (this should match the folder name)
 authors:
-- Ollie
+- ollie
 
 # Is this the primary user of the site?
 superuser: false
@@ -41,16 +41,16 @@ organizations:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:oharrison@benaroyaresearch.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/harrison_oj
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=3Z_Zt4oAAAAJ
+#social:
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:oharrison@benaroyaresearch.org'
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/harrison_oj
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=3Z_Zt4oAAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -70,4 +70,4 @@ user_groups:
 
 ---
 
-Ollie Dave Fred
+
