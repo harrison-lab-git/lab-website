@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Ollie Harrison
+title: Kim Foster
 
 # Username (this should match the folder name)
 authors:
-- ollie
+- kim
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Principal Investigator
+role: Rotation student
 
 # Organizations/Affiliations
 organizations:
-- name: Benaroya Research Institute at Virginia Mason
+- name: UW Immunology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,4 +70,4 @@ user_groups:
 
 ---
 
-
+Kim received a BS in biochemistry from Seattle University and is currently a 1st year student in the UW Immunology department. Kim enjoys eating her way through Seattle’s culinary offerings and can always come up with a good dinner recommendation. In her free time she can often be found playing Animal Crossing.
