@@ -2,6 +2,8 @@
 # Display name
 title: Kim Foster
 
+weight: 4
+
 # Username (this should match the folder name)
 authors:
 - kim

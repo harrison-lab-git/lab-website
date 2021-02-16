@@ -2,6 +2,8 @@
 # Display name
 title: Sheenam Verma
 
+weight: 3
+
 # Username (this should match the folder name)
 authors:
 - sheenam

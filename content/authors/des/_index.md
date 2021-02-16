@@ -2,6 +2,8 @@
 # Display name
 title: Des Thomaier
 
+weight: 2
+
 # Username (this should match the folder name)
 authors:
 - des

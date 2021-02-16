@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Home"
-  url = "/home"
+  url = "/"
   weight = 10
 
 [[main]]
@@ -15,22 +15,22 @@
 
 [[main]]
   name = "Research"
-  url = "/research"
+  url = "/research/"
   weight = 30
 
 [[main]]
   name = "Lab life"
-  url = "/lablife"
+  url = "/lablife/"
   weight = 40
 
 [[main]]
   name = "Publications"
-  url = "/publications"
+  url = "/publications/"
   weight = 50
 
 [[main]]
   name = "Contact"
-  url = "/contact"
+  url = "/contact/"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
