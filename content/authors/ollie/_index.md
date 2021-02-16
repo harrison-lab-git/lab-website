@@ -2,6 +2,8 @@
 # Display name
 title: Ollie Harrison
 
+weight: 1
+
 # Username (this should match the folder name)
 authors:
 - ollie
