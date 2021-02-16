@@ -1,23 +1,23 @@
 ---
-title: "An example conference paper"
+title: "Poised for tissue repair"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-authors:
+#authors:
 #- admin
 #- Robert Ford
 
 # Author notes (optional)
-author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
+#author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
+date: "2020-01-01T00:00:00Z"
+doi: "10.1126/science.abc5618"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,10 +29,10 @@ publication_types: ["2"]
 publication: In *Science*
 publication_short: In *Science*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The immune system acts as a formidable guardian of health, protecting and restoring tissue function during infectious and environmental challenges. To date, our understanding of host immunity stems from models of inflammation and infection with pathogenic microbes. However, the vast majority of microbial-immune encounters occur as a symbiotic relationship with the commensal microbiota, the trillions of microorganisms that inhabit our barrier tissues, including the gastrointestinal tract and skin. Indeed, far from being ignored by the host, commensal microbes promote the development, education, and function of the mammalian immune system. In return, immune responses to commensal microbes, particularly those mediated by the adaptive immune system, act to bolster epithelial fortifications for antimicrobial function, restraining systemic translocation of both commensal and pathogenic microbes.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -75,13 +75,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
