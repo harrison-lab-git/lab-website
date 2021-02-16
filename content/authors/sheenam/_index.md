@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Des Thomaier
+title: Sheenam Verma
 
 # Username (this should match the folder name)
 authors:
-- des
+- sheenam
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Technician
+role: Post-doctoral fellow
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-#bio: 
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 #interests:
 #- Artificial Intelligence
@@ -70,4 +70,4 @@ user_groups:
 
 ---
 
-Desirae has a B.S. in Biology from the University of Washington, class of 2018. During her undergrad she was at the Boersma Lab studying penguin ecology in Argentina. She is interested in immunology, zoonotics, and enjoys hikes with her dogs in her spare time.
+Sheenam earned her M.Sc. degree in Biotechnology from Punjab Agricultural University and Ph.D. in Structural Immunology under the direction of Dr. Dinakar M. Salunke from the Regional Centre for Biotechnology, India. Her Ph.D. research focused on understanding the molecular basis of antibody promiscuity and its implications in the immune response. Sheenam is particularly interested in studying commensal specific B cells and their contribution to homeostatic immunity. When not working, she likes to explore the Pacific Northwest and trying her hand at cooking.
