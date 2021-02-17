@@ -4,7 +4,7 @@ title: "Poised for tissue repair"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-authors:
+authors: jim
 
 
 # Author notes (optional)
@@ -74,3 +74,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+The immune system acts as a formidable guardian of health, protecting and restoring tissue function during infectious and environmental challenges. To date, our understanding of host immunity stems from models of inflammation and infection with pathogenic microbes. However, the vast majority of microbial-immune encounters occur as a symbiotic relationship with the commensal microbiota, the trillions of microorganisms that inhabit our barrier tissues, including the gastrointestinal tract and skin. Indeed, far from being ignored by the host, commensal microbes promote the development, education, and function of the mammalian immune system. In return, immune responses to commensal microbes, particularly those mediated by the adaptive immune system, act to bolster epithelial fortifications for antimicrobial function, restraining systemic translocation of both commensal and pathogenic microbes.
