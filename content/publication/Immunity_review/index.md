@@ -27,7 +27,7 @@ tags:
 title: Homeostatic Immunity and the Microbiota
 #url_code: '#'
 #url_dataset: '#'
-url_pdf: files/immunity_review.pdf
+url_pdf: immunity_review.pdf
 #url_poster: '#'
 #url_project: ""
 #url_slides: ""
