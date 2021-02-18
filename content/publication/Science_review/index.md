@@ -27,7 +27,7 @@ tags:
 title: Poised for tissue repair
 #url_code: '#'
 #url_dataset: '#'
-url_pdf: files/science_review.pdf
+url_pdf: science_review.pdf
 #url_poster: '#'
 #url_project: ""
 #url_slides: ""
