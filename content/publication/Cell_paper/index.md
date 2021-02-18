@@ -27,7 +27,7 @@ tags:
 title: Non-classical Immunity Controls Microbiota Impact on Skin Immunity and Tissue Repair
 #url_code: '#'
 #url_dataset: '#'
-url_pdf: files/cell_paper.pdf
+url_pdf: cell_paper.pdf
 #url_poster: '#'
 #url_project: ""
 #url_slides: ""
