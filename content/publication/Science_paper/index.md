@@ -27,7 +27,7 @@ tags:
 title: Commensal-specific T cell plasticity promotes rapid tissue adaptation to injury
 #url_code: '#'
 #url_dataset: '#'
-url_pdf: files/science_paper.pdf
+url_pdf: science_paper.pdf
 #url_poster: '#'
 #url_project: ""
 #url_slides: ""
