@@ -14,7 +14,7 @@ weight: 20
 
 title: Harrison Lab
 
-css_style = ["custom"]
+css_style: ["custom"]
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
