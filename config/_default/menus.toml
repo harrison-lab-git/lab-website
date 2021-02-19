@@ -19,7 +19,7 @@
   weight = 30
 
 [[main]]
-  name = "Lab life"
+  name = "Lab News"
   url = "/lablife/"
   weight = 40
 
