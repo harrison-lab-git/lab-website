@@ -61,9 +61,6 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
     startLevel = 2
     endLevel = 3
 
-[params]
-  ShowDatesOnPosts = false
-
 [imaging]
   resampleFilter = "lanczos"
   quality = 75
