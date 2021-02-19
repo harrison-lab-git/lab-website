@@ -74,6 +74,6 @@ Our studies revolve around understanding the mechanisms controlling host-microbe
 
 The lab investigates the molecular mechanisms of how T and B cell responses to commensal microbes are mounted and function. The goal is to understand how these immune cells promote barrier tissue integrity and repair, and to understand how this goes awry during disease.
 
-Please contact Ollie directly if you are interested in joining the lab!
+Please [contact](/contact/) Ollie directly if you are interested in joining the lab!
 
 
