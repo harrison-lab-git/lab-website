@@ -38,7 +38,7 @@ subtitle = "[Complete list on Google Scholar](https://scholar.google.co.uk/citat
   #   4 = Citation (publication only)
   view = 2
 
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
