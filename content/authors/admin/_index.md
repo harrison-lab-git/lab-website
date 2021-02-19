@@ -72,8 +72,8 @@ highlight_name: false
 
 Our studies revolve around understanding the mechanisms controlling host-microbe interaction at barrier tissues, primarily the skin and the gut. These two barriers represent the major portals of pathogen exposure and are key anatomical sites for development of inflammatory disorders.
 
-The lab investigates the molecular mechanisms of how T and B cell responses to these commensal microbes are mounted and function. The goal is to understand how these immune cells promote barrier tissue integrity and repair, and to understand how this goes awry during disease.
+The lab investigates the molecular mechanisms of how T and B cell responses to commensal microbes are mounted and function. The goal is to understand how these immune cells promote barrier tissue integrity and repair, and to understand how this goes awry during disease.
 
-Please contact Ollie directly if you are interested in joining the lab!
+Please [contact](/contact/) Ollie directly if you are interested in joining the lab!
 
 
