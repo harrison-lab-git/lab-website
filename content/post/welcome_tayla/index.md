@@ -1,5 +1,5 @@
 ---
-title: 'Welcome to the lab Desirae!'
+title: 'Welcome to the lab Tayla!'
 subtitle: 'June 2nd 2021'
 #summary: Create a beautifully simple website in under 10 minutes.
 #authors:
@@ -7,7 +7,7 @@ subtitle: 'June 2nd 2021'
 #tags:
 #- Academic
 categories: []
-date: "2019-02-14T00:00:00Z"
+date: "2021-06-2T00:00:00Z"
 #lastmod: "2019-04-17T00:00:00Z"
 featured: false
 draft: false
@@ -16,7 +16,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  #caption: 'Image credit: [**Matt Warren @ BRI**]'
+  caption: 'Image credit: []'
   focal_point: "Smart"
   preview_only: false
 
