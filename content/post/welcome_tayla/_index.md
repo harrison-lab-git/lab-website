@@ -31,7 +31,7 @@ projects: []
 profile: false  
 ---
 
-**The Harrison Lab welcomes its first graduate student, [Tayla Olsen](/authors/tayla/)! Welcome Tayla, we're looking forward to the fun science to come!**
+**The Harrison Lab welcomes its first graduate student, [Tayla Olsen](/authors/tayla/)! Tayla, joins the lab as a graduate student on the Seattle MCB program. Welcome, we're looking forward to the fun science to come!**
 
 
 
