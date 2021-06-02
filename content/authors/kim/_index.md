@@ -1,22 +1,22 @@
 ---
 # Display name
-title: Kim Foster
+title: Tayla Olsen
 
 weight: 4
 
 # Username (this should match the folder name)
 authors:
-- kim
+- tayla
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Rotation student
+role: Graduate student
 
 # Organizations/Affiliations
 organizations:
-- name: UW Immunology
+- name: Seattle MCB
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -68,8 +68,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Pending
+- current
 
 ---
 
-Kim received a BS in biochemistry from Seattle University and is currently a 1st year student in the UW Immunology department. Kim enjoys eating her way through Seattle’s culinary offerings and can always come up with a good dinner recommendation. In her free time she can often be found playing Animal Crossing.
+Tayla earned her B.S. in Biochemistry and History of Science from the University of Wisconsin Madison in 2014, and she spent the next 6-years working as a technician/lab manager in several immunology-focused labs in Seattle. Notably, in Dr. Sean Murphy’s lab, she developed a pre-clinical T cell-based malaria vaccine. Tayla is now a graduate student at the University of Washington in the MCB program where she aims to obtain her PhD studying T and B cell responses to commensal microbes in health and disease. When not at the bench, she enjoys all manner of outdoor pursuits, baking, and gardening. ![image](https://user-images.githubusercontent.com/60168947/120533012-24361680-c395-11eb-958e-3c617cda38b1.png)
+
