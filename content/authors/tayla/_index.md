@@ -72,5 +72,5 @@ user_groups:
 
 ---
 
-Tayla earned her B.S. in Biochemistry and History of Science from the University of Wisconsin Madison in 2014, and she spent the next 6-years working as a technician/lab manager in several immunology-focused labs in Seattle. Notably, in Dr. Sean Murphy’s lab, she developed a pre-clinical T cell-based malaria vaccine. Tayla is now a graduate student at the University of Washington in the MCB program where she aims to obtain her PhD studying T and B cell responses to commensal microbes in health and disease. When not at the bench, she enjoys all manner of outdoor pursuits, baking, and gardening. ![image](https://user-images.githubusercontent.com/60168947/120533012-24361680-c395-11eb-958e-3c617cda38b1.png)
+Tayla earned her B.S. in Biochemistry and History of Science from the University of Wisconsin Madison in 2014, and she spent the next 6-years working as a technician/lab manager in several immunology-focused labs in Seattle. Notably, in Dr. Sean Murphy’s lab, she developed a pre-clinical T cell-based malaria vaccine. Tayla is now a graduate student at the University of Washington in the MCB program where she aims to obtain her PhD studying T and B cell responses to commensal microbes in health and disease. When not at the bench, she enjoys all manner of outdoor pursuits, baking, and gardening.
 
