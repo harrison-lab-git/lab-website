@@ -31,7 +31,7 @@ projects: []
 profile: false  
 ---
 
-**Our latest recruit [Dr. Jasmine Labuda](/authors/jasmine/) joins the Harrison lab as a post-doctoral fellow, having successfully defended her thesis work at the University of California, Davis! We're really excited to have you in Seattle, BRI and the lab!**
+**Our latest recruit, [Dr. Jasmine Labuda](/authors/jasmine/) joins the Harrison lab as a post-doctoral fellow, having successfully defended her thesis work at the University of California, Davis! We're really excited to have you in Seattle, BRI and the lab!**
 
 
 
