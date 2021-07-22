@@ -2,7 +2,7 @@
 # Display name
 title: Jasmine Labuda
 
-weight: 4
+weight: 5
 
 # Username (this should match the folder name)
 authors:
