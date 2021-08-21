@@ -18,7 +18,6 @@ content:
   user_groups:
   - Current
   - Alumni
-XX
 
 design:
   show_interests: false
@@ -29,3 +28,9 @@ columns: 2
 
 ---
 
+
+
+
+
+
+Giraffe
